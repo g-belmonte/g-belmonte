@@ -16,7 +16,6 @@
 
 ![Elm](https://img.shields.io/badge/-Elm-1293d8?style=flat-square&logo=elm&logoColor=ffffff)
 ![Elixir](https://img.shields.io/badge/-Elixir-4b275f?style=flat-square&logo=elixir&logoColor=ffffff)
-![Ruby](https://img.shields.io/badge/-Ruby-cc342d?style=flat-square&logo=ruby&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=f5da55)
 ![Haskell](https://img.shields.io/badge/-Haskell-5d4f85?style=flat-square&logo=haskell&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
@@ -24,9 +23,10 @@
 #### Frameworks
 
 [![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=ffffff)](https://www.gatsbyjs.com/)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-38b2ac?style=flat-square&logo=tailwind%20css&logoColor=ffffff)](https://www.gatsbyjs.com/)
 [![Phoenix](https://img.shields.io/badge/-Phoenix-e97d23?style=flat-square)](https://www.phoenixframework.org/)
 [![Absinthe](https://img.shields.io/badge/-Absinthe-298f4e?style=flat-square)](https://absinthe-graphql.org/)
-[![Rails](https://img.shields.io/badge/-Rails-cc0000?style=flat-square&logo=Ruby%20on%20Rails&logoColor=ffffff)](https://rubyonrails.org/)
 [![Servant](https://img.shields.io/badge/-Servant-666666?style=flat-square)](https://www.servant.dev/)
 [![Yesod](https://img.shields.io/badge/-Yesod-29374e?style=flat-square)](https://www.yesodweb.com/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?style=flat-square&logo=graphql&logoColor=ffffff)](https://graphql.org/)
@@ -53,3 +53,10 @@
 ![Scala](https://img.shields.io/badge/-Scala-dc322f?style=flat-square&logo=scala&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)
 ![Elisp](https://img.shields.io/badge/-Elisp-7f5ab6?style=flat-square&logo=gnu%20emacs&logoColor=ffffff)
+
+### Previous experience with
+![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=c&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=ffffff)
+![Ruby](https://img.shields.io/badge/-Ruby-cc342d?style=flat-square&logo=ruby&logoColor=ffffff)
