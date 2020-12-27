@@ -17,7 +17,7 @@
 ![Elm](https://img.shields.io/badge/-Elm-1293d8?style=flat-square&logo=elm&logoColor=ffffff)
 ![Elixir](https://img.shields.io/badge/-Elixir-4b275f?style=flat-square&logo=elixir&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=f5da55)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=javascript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff)
 ![Haskell](https://img.shields.io/badge/-Haskell-5d4f85?style=flat-square&logo=haskell&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 
