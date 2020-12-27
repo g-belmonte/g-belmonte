@@ -42,7 +42,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-232f3e?style=flat-square&logo=amazon%20aws&logoColor=ffffff)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849be?style=flat-square&logo=insomnia&logoColor=ffffff)
-![Nix](https://img.shields.io/badge/-NixOS-5277c3?style=flat-square&logo=insomnia&logoColor=ffffff)
+![Nix](https://img.shields.io/badge/-Nix-5277c3?style=flat-square&logo=nixos&logoColor=ffffff)
 
 #### Others
 
