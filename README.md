@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Guilherme Belmonte, Software Developer.
+## Hello there 👋, I'm Guilherme Belmonte, Software Developer.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/grbelmonte)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contact@belmonte.dev)
@@ -16,13 +16,14 @@
 
 ![Elm](https://img.shields.io/badge/-Elm-1293d8?style=flat-square&logo=elm&logoColor=ffffff)
 ![Elixir](https://img.shields.io/badge/-Elixir-4b275f?style=flat-square&logo=elixir&logoColor=ffffff)
+![Haskell](https://img.shields.io/badge/-Haskell-5d4f85?style=flat-square&logo=haskell&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=f5da55)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff)
-![Haskell](https://img.shields.io/badge/-Haskell-5d4f85?style=flat-square&logo=haskell&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 
 #### Frameworks
 
+[![NestJS](https://img.shields.io/badge/-NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=ffffff)](https://nestjs.com/)
 [![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=ffffff)](https://www.gatsbyjs.com/)
 [![Tailwind](https://img.shields.io/badge/-Tailwind-38b2ac?style=flat-square&logo=tailwind%20css&logoColor=ffffff)](https://tailwindcss.com/)
@@ -55,6 +56,8 @@
 ![Scala](https://img.shields.io/badge/-Scala-dc322f?style=flat-square&logo=scala&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)
 ![Elisp](https://img.shields.io/badge/-Elisp-7f5ab6?style=flat-square&logo=gnu%20emacs&logoColor=ffffff)
+![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=ffffff)
+![PureScript](https://img.shields.io/badge/-PureScript-14161A?style=flat-square&logo=purescript&logoColor=ffffff)
 
 ### Previous experience with
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=c&logoColor=ffffff)
