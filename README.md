@@ -2,6 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/grbelmonte)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contact@belmonte.dev)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/BelmonteDev)
 
 ### Professional interests
 
@@ -42,7 +43,6 @@
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-232f3e?style=flat-square&logo=amazon%20aws&logoColor=ffffff)
-![Insomnia](https://img.shields.io/badge/-Insomnia-5849be?style=flat-square&logo=insomnia&logoColor=ffffff)
 ![Nix](https://img.shields.io/badge/-Nix-5277c3?style=flat-square&logo=nixos&logoColor=ffffff)
 
 #### Others
@@ -53,11 +53,9 @@
 
 ### Learning/Experimenting
 
-![Scala](https://img.shields.io/badge/-Scala-dc322f?style=flat-square&logo=scala&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)
 ![Elisp](https://img.shields.io/badge/-Elisp-7f5ab6?style=flat-square&logo=gnu%20emacs&logoColor=ffffff)
 ![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=ffffff)
-![PureScript](https://img.shields.io/badge/-PureScript-14161A?style=flat-square&logo=purescript&logoColor=ffffff)
 
 ### Previous experience with
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=c&logoColor=ffffff)
@@ -65,3 +63,4 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=ffffff)
 ![Ruby](https://img.shields.io/badge/-Ruby-cc342d?style=flat-square&logo=ruby&logoColor=ffffff)
+![Scala](https://img.shields.io/badge/-Scala-dc322f?style=flat-square&logo=scala&logoColor=ffffff)
