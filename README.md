@@ -35,7 +35,7 @@
 
 #### Data storage
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=ffffff)
 
 #### Tools
