@@ -16,7 +16,6 @@
 
 #### Languages
 
-[![Elm](https://img.shields.io/badge/-Elm-1293d8?style=flat-square&logo=elm&logoColor=ffffff)](https://elm-lang.org/)
 [![Elixir](https://img.shields.io/badge/-Elixir-4b275f?style=flat-square&logo=elixir&logoColor=ffffff)](https://elixir-lang.org/)
 [![Haskell](https://img.shields.io/badge/-Haskell-5d4f85?style=flat-square&logo=haskell&logoColor=ffffff)](https://www.haskell.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=f5da55)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -30,8 +29,7 @@
 [![Tailwind](https://img.shields.io/badge/-Tailwind-38b2ac?style=flat-square&logo=tailwind%20css&logoColor=ffffff)](https://tailwindcss.com/)
 [![Phoenix](https://img.shields.io/badge/-Phoenix-e97d23?style=flat-square)](https://www.phoenixframework.org/)
 [![Absinthe](https://img.shields.io/badge/-Absinthe-298f4e?style=flat-square)](https://absinthe-graphql.org/)
-[![Servant](https://img.shields.io/badge/-Servant-666666?style=flat-square)](https://www.servant.dev/)
-[![Yesod](https://img.shields.io/badge/-Yesod-29374e?style=flat-square)](https://www.yesodweb.com/)
+[![Servant](https://img.shields.io/badge/-Servant-666666?style=flat-square)](https://haskell-servant.github.io/)
 
 #### Data storage
 
@@ -64,3 +62,4 @@
 [![Ruby](https://img.shields.io/badge/-Ruby-cc342d?style=flat-square&logo=ruby&logoColor=ffffff)](https://www.ruby-lang.org/en/)
 [![Scala](https://img.shields.io/badge/-Scala-dc322f?style=flat-square&logo=scala&logoColor=ffffff)](https://scala-lang.org/)
 [![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=ffffff)](https://clojure.org/)
+[![Elm](https://img.shields.io/badge/-Elm-1293d8?style=flat-square&logo=elm&logoColor=ffffff)](https://elm-lang.org/)
