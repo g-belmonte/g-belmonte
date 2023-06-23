@@ -48,9 +48,9 @@
 [![Emacs](https://img.shields.io/badge/-Emacs-7f5ab6?style=flat-square&logo=gnu%20emacs&logoColor=ffffff)](https://www.gnu.org/software/emacs/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?style=flat-square&logo=graphql&logoColor=ffffff)](https://graphql.org/)
 
-### Learning/Experimenting
+### Other Programming Languages
 
-#### Languages used in hobby projects
+#### Languages currently used in hobby projects
 [![C++](https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=ffffff)](https://www.iso.org/standard/83626.html)
 [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/)
 [![Elisp](https://img.shields.io/badge/-Elisp-7f5ab6?style=flat-square&logo=gnu%20emacs&logoColor=ffffff)](https://www.gnu.org/software/emacs/manual/html_node/elisp/index.html)
